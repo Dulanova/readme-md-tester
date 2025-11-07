@@ -61,10 +61,10 @@
 > Yuk, gabung & diskusi bareng komunitas hebat lainnya!  
 
 🤝 **Terhubung Dengan Saya:**
-- 💼 [LinkedIn](https://linkedin.com/in/username)  
-- 🐦 [Twitter](https://twitter.com/username)  
-- 🌍 [Website Pribadi](https://username.github.io)  
-- 💌 [Email](mailto:username@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dulanova/)  
+- 🐦 [Twitter](https://x.com/acakadulan)  
+- 🌍 [Website Pribadi](https://dulanova.github.io/Dulanova/)  
+- 💌 [Email](mailto:acakadulan@gmail.com)
 
 ---
 
