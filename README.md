@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://MoneyMate.app" target="_blank">
-    <img src="https://github.com/AsyrafRF/moneymate/blob/6f2b92147bbd57d7196a26a7a7749906dbe30cd5/docs/assets/logo.png" width="300" alt="MoneyMate Logo">
+  <a href="https://moneymate-production-id.up.railway.app" target="_blank">
+    <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/logo.png" width="300" alt="MoneyMate Logo">
   </a>
 </p>
 
@@ -34,23 +34,23 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 - 🌎 **Multi Platform** – Akses via Web dan Mobile Web.
 
 <p align="center">
-  <img src="https://github.com/AsyrafRF/moneymate/blob/a99e911169c00b547a0d1378ee83fdb0a7172706/docs/assets/landing.png" width="600" alt="Landing Preview">
+  <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/landing.png" width="600" alt="Landing Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AsyrafRF/moneymate/blob/a99e911169c00b547a0d1378ee83fdb0a7172706/docs/assets/dashboard.png" width="600" alt="Dashboard Preview">
+  <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/dashboard.png" width="600" alt="Dashboard Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AsyrafRF/moneymate/blob/a99e911169c00b547a0d1378ee83fdb0a7172706/docs/assets/transaksi.png" width="600" alt="Transaksi Preview">
+  <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/transaksi.png" width="600" alt="Transaksi Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AsyrafRF/moneymate/blob/a99e911169c00b547a0d1378ee83fdb0a7172706/docs/assets/laporan.png" width="600" alt="Laporan Preview">
+  <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/laporan.png" width="600" alt="Laporan Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AsyrafRF/moneymate/blob/a99e911169c00b547a0d1378ee83fdb0a7172706/docs/assets/visualisasi.png" width="600" alt="Visualisasi Preview">
+  <img src="https://github.com/asydev-id/MoneyMate/blob/498bbd1d78347a08e6f08b9b41aa121893d0f627/docs/assets/visualisasi.png" width="600" alt="Visualisasi Preview">
 </p>
 
 ---
@@ -59,7 +59,7 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 
 - [Dokumentasi Backend](#)  
 - [Dokumentasi Frontend](#)  
-- [Demo Live](https://moneymate-production-id.up.railway.app)  
+- [Demo Live](https://moneymate-test.up.railway.app/)  
 
 Jika ingin mengembangkan MoneyMate, silakan ikuti panduan instalasi di bawah atau cek video tutorial di [YouTube Channel](https://youtube.com/yourchannel).
 
