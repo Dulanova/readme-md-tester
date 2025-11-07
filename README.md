@@ -119,3 +119,9 @@ MoneyMate adalah software yang dikembangkan dalam Project Based Learning di bawa
 
 
 <p align="center"> Dibuat dengan ❤️ oleh <a href="https://www.instagram.com/moneymate.trpl/">PBL-TRPL517 A Team</a> </p> 
+
+<p align="center">
+  ## Made from **[laravel](https://laravel.com/)**
+</p>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
