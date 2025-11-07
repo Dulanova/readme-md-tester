@@ -86,11 +86,11 @@ gantt
 
 ## 📊 Status Progres Proyek
 
-| Kategori          | Persentase                                                    | Status      |
-| ----------------- | ------------------------------------------------------------- | ----------- |
-| Increment 1       | ![Progress](https://progress-bar.dev/100/?title=Complete)     | ✅ Done      |
-| Increment 2       | ![Progress](https://progress-bar.dev/60/?title=In%20Progress) | 🟡 Ongoing  |
-| Total Keseluruhan | ![Progress](https://progress-bar.dev/80/?title=Overall)       | 🔄 Iteratif |
+| Kategori          | Progress        | Status      |
+| ----------------- | --------------- | ----------- |
+| Increment 1       | 🟩🟩🟩🟩🟩 100% | ✅ Done      |
+| Increment 2       | 🟩🟩🟩🟨⬜ 60%   | 🟡 Ongoing  |
+| Total Keseluruhan | 🟩🟩🟩🟩⬜ 80%   | 🔄 Iteratif |
 
 ---
 
