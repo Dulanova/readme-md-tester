@@ -1,32 +1,41 @@
----
+# 💼 *Moneymate Project* — Development Task Documentation  
 
-# 💼 *Moneymate Project* — Development Task Documentation
-
-📂 **Path:** `docs/notes/Development/Task`
-👤 **Maintainer:** AsyrafRF
-🌿 **Branch:** `master` (📈 182 commits ahead · 56 commits behind `main`)
+📂 **Path:** `docs/notes/Development/Task`  
+👤 **Maintainer:** AsyrafRF  
+🌿 **Branch:** `master`
 
 ---
 
-## 🧩 Tentang Dokumen Ini
-
-Dokumentasi ini mencatat seluruh **task pengembangan** proyek **Moneymate** berdasarkan metodologi **Scrum** dengan pendekatan **Incremental Sprint**.
-Setiap file di dalam folder ini mencerminkan hasil kerja, revisi, dan perbaikan fitur yang dilakukan oleh tim development secara iteratif.
+<p align="center">
+  <!-- ✅ Project Badges -->
+  <a href="https://github.com/USERNAME/moneymate"><img src="https://img.shields.io/github/repo-size/USERNAME/moneymate?color=blue&label=Repo%20Size&logo=github" alt="Repo Size"></a>
+  <a href="https://github.com/USERNAME/moneymate/commits/master"><img src="https://img.shields.io/github/last-commit/USERNAME/moneymate/master?label=Last%20Update&color=brightgreen" alt="Last Commit"></a>
+  <a href="https://github.com/USERNAME/moneymate/commits"><img src="https://img.shields.io/github/commit-activity/m/USERNAME/moneymate?label=Commit%20Activity&color=orange" alt="Commit Activity"></a>
+  <a href="https://github.com/USERNAME/moneymate/tree/master"><img src="https://img.shields.io/badge/Branch-master-blue?logo=git" alt="Branch"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scrum-Incremental%20Agile-8A2BE2?logo=azure-devops&logoColor=white" alt="Scrum Method"></a>
+</p>
 
 ---
 
-## 🚀 Framework Pengembangan
+## 🧩 Tentang Dokumen Ini  
+
+Dokumentasi ini mencatat seluruh **task pengembangan** proyek **Moneymate** berdasarkan metodologi **Scrum** dengan pendekatan **Incremental Sprint**.  
+Setiap file di dalam folder ini mencerminkan hasil kerja, revisi, dan perbaikan fitur yang dilakukan oleh tim development secara iteratif.  
+
+---
+
+## 🚀 Framework Pengembangan  
 
 Metodologi yang digunakan adalah **Scrum Framework**, dengan siklus berikut:
 
-1. **Sprint Planning** — Menentukan backlog dan tujuan sprint
-2. **Development** — Implementasi fitur dan perbaikan bug
-3. **Testing & Review** — Pengujian internal, UAT, dan dokumentasi hasil
-4. **Revision & Release** — Penyempurnaan berdasarkan feedback pengguna
+1. **Sprint Planning** — Menentukan backlog dan tujuan sprint  
+2. **Development** — Implementasi fitur dan perbaikan bug  
+3. **Testing & Review** — Pengujian internal, UAT, dan dokumentasi hasil  
+4. **Revision & Release** — Penyempurnaan berdasarkan feedback pengguna  
 
 ---
 
-## 📅 Sprint Timeline
+## 📅 Sprint Timeline  
 
 ```mermaid
 gantt
@@ -41,7 +50,7 @@ gantt
     Sprint 2:active, 2025-09-05, 14d
     Revisi Fase 1 (Form Pencatatan):active, 2025-09-19, 7d
     Revisi Fase 2 (Scrum Review):done, 2025-09-26, 7d
-```
+````
 
 ---
 
@@ -77,11 +86,11 @@ gantt
 
 ## 📊 Status Progres Proyek
 
-| Kategori | Progres | Status |
-|-----------|----------|--------|
-| Increment 1 | ![done](https://img.shields.io/badge/100%25-Done-brightgreen) | ✅ Done |
-| Increment 2 | ![ongoing](https://img.shields.io/badge/60%25-Ongoing-yellow) | 🟡 Ongoing |
-| Total Keseluruhan | ![overall](https://img.shields.io/badge/80%25-Iteratif-blue) | 🔄 Iteratif |
+| Kategori          | Persentase                                                    | Status      |
+| ----------------- | ------------------------------------------------------------- | ----------- |
+| Increment 1       | ![Progress](https://progress-bar.dev/100/?title=Complete)     | ✅ Done      |
+| Increment 2       | ![Progress](https://progress-bar.dev/60/?title=In%20Progress) | 🟡 Ongoing  |
+| Total Keseluruhan | ![Progress](https://progress-bar.dev/80/?title=Overall)       | 🔄 Iteratif |
 
 ---
 
